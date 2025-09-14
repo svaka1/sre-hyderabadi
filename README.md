@@ -13,8 +13,7 @@ Ensure you have the following installed on your machine:
 2.  **Install dependencies**:
     npm install
 
-3. **Build and Start**:
-    npm run build
+3. **Start Application**:
     npm start
 
 Open your browser and navigate to the URL provided in the terminal (e.g., http://localhost:3000)
