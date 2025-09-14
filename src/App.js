@@ -51,6 +51,19 @@ function App() {
             Collaborate, ask questions, and get support from fellow SREs in Hyderabad.
           </p>
         </div>
+        <div className="highlight-card">
+	      <h3>Welcome Video!</h3>
+      
+        <iframe
+        width="320"
+        height="320"
+        src="https://www.youtube.com/embed/6JpniFw2XZc?autoplay=1&mute=1"
+        title="YouTube video player"
+        frameBorder="0"
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+        allowFullScreen
+        /> 
+	      </div>
       </section>
 
       {/* Partners Section */}
